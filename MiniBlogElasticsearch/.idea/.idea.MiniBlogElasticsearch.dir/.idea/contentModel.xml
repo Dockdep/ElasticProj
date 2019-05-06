@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\VitaliyH\.Rider2019.1\config\consoles\db" t="IncludeRecursive" />
+    <e p="C:\Users\VitaliyH\.Rider2019.1\config\extensions" t="IncludeRecursive" />
+    <e p="C:\Users\VitaliyH\.Rider2019.1\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\VitaliyH\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_.19.00" t="ExcludeRecursive" />
+    <e p="C:\Users\VitaliyH\RiderProjects\ElasticAPI\MiniBlogElasticsearch" t="IncludeRecursive">
+      <e p="appsettings.Development.json" t="Include" />
+      <e p="appsettings.json" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="BlogSettings.cs" t="Include" />
+      <e p="Controllers" t="Include">
+        <e p="AccountController.cs" t="Include" />
+        <e p="BlogController.cs" t="Include" />
+        <e p="RobotsController.cs" t="Include" />
+        <e p="SearchController.cs" t="Include" />
+      </e>
+      <e p="docker-compose.yml" t="Include" />
+      <e p="elasticdata" t="Include">
+        <e p="nodes" t="Include">
+          <e p="0" t="Include">
+            <e p="_state" t="Include">
+              <e p="global-17.st" t="Include" />
+              <e p="manifest-32.st" t="Include" />
+              <e p="node-0.st" t="Include" />
+            </e>
+            <e p="indices" t="Include">
+              <e p="-GNwf9iNQ3qQGtNuOqSPcg" t="Include">
+                <e p="0" t="Include">
+                  <e p="_state" t="Include">
+                    <e p="retention-leases-238.st" t="Include" />
+                    <e p="state-0.st" t="Include" />
+                  </e>
+                  <e p="index" t="Include">
+                    <e p="_0.cfe" t="Include" />
+                    <e p="_0.cfs" t="Include" />
+                    <e p="_0.si" t="Include" />
+                    <e p="segments_4" t="Include" />
+                    <e p="write.lock" t="Include" />
+                  </e>
+                  <e p="translog" t="Include">
+                    <e p="translog-1.ckp" t="Include" />
+                    <e p="translog-1.tlog" t="Include" />
+                    <e p="translog-2.ckp" t="Include" />
+                    <e p="translog-2.tlog" t="Include" />
+                    <e p="translog-3.tlog" t="Include" />
+                    <e p="translog.ckp" t="Include" />
+                  </e>
+                </e>
+                <e p="_state" t="Include">
+                  <e p="state-2.st" t="Include" />
+                </e>
+              </e>
+              <e p="kYbLk0u5SGaBko-tRa4_Iw" t="Include">
+                <e p="0" t="Include">
+                  <e p="_state" t="Include">
+                    <e p="retention-leases-238.st" t="Include" />
+                    <e p="state-0.st" t="Include" />
+                  </e>
+                  <e p="index" t="Include">
+                    <e p="_0.cfe" t="Include" />
+                    <e p="_0.cfs" t="Include" />
+                    <e p="_0.si" t="Include" />
+                    <e p="_0_1.fnm" t="Include" />
+                    <e p="_0_1_Lucene80_0.dvd" t="Include" />
+                    <e p="_0_1_Lucene80_0.dvm" t="Include" />
+                    <e p="_1.cfe" t="Include" />
+                    <e p="_1.cfs" t="Include" />
+                    <e p="_1.si" t="Include" />
+                    <e p="_1_1.fnm" t="Include" />
+                    <e p="_1_1_Lucene80_0.dvd" t="Include" />
+                    <e p="_1_1_Lucene80_0.dvm" t="Include" />
+                    <e p="_2.cfe" t="Include" />
+                    <e p="_2.cfs" t="Include" />
+                    <e p="_2.si" t="Include" />
+                    <e p="_2_1.fnm" t="Include" />
+                    <e p="_2_1_Lucene80_0.dvd" t="Include" />
+                    <e p="_2_1_Lucene80_0.dvm" t="Include" />
+                    <e p="_3.cfe" t="Include" />
+                    <e p="_3.cfs" t="Include" />
+                    <e p="_3.si" t="Include" />
+                    <e p="_4.cfe" t="Include" />
+                    <e p="_4.cfs" t="Include" />
+                    <e p="_4.si" t="Include" />
+                    <e p="_4_1.fnm" t="Include" />
+                    <e p="_4_1_Lucene80_0.dvd" t="Include" />
+                    <e p="_4_1_Lucene80_0.dvm" t="Include" />
+                    <e p="_5.cfe" t="Include" />
+                    <e p="_5.cfs" t="Include" />
+                    <e p="_5.si" t="Include" />
+                    <e p="segments_3" t="Include" />
+                    <e p="write.lock" t="Include" />
+                  </e>
+                  <e p="translog" t="Include">
+                    <e p="translog-1.ckp" t="Include" />
+                    <e p="translog-1.tlog" t="Include" />
+                    <e p="translog-2.ckp" t="Include" />
+                    <e p="translog-2.tlog" t="Include" />
+                    <e p="translog-3.tlog" t="Include" />
+                    <e p="translog.ckp" t="Include" />
+                  </e>
+                </e>
+                <e p="_state" t="Include">
+                  <e p="state-1.st" t="Include" />
+                </e>
+              </e>
+              <e p="OVWWiaJZTKCcJ1T390YsoA" t="Include">
+                <e p="0" t="Include">
+                  <e p="_state" t="Include">
+                    <e p="retention-leases-235.st" t="Include" />
+                    <e p="state-0.st" t="Include" />
+                  </e>
+                  <e p="index" t="Include">
+                    <e p="_0.cfe" t="Include" />
+                    <e p="_0.cfs" t="Include" />
+                    <e p="_0.si" t="Include" />
+                    <e p="segments_4" t="Include" />
+                    <e p="write.lock" t="Include" />
+                  </e>
+                  <e p="translog" t="Include">
+                    <e p="translog-1.ckp" t="Include" />
+                    <e p="translog-1.tlog" t="Include" />
+                    <e p="translog-2.ckp" t="Include" />
+                    <e p="translog-2.tlog" t="Include" />
+                    <e p="translog-3.tlog" t="Include" />
+                    <e p="translog.ckp" t="Include" />
+                  </e>
+                </e>
+                <e p="_state" t="Include">
+                  <e p="state-2.st" t="Include" />
+                </e>
+              </e>
+            </e>
+            <e p="node.lock" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="ElasticSearch" t="Include">
+        <e p="ElasticsearchExtensions.cs" t="Include" />
+      </e>
+      <e p="MiniBlogElasticsearch.csproj" t="IncludeRecursive" />
+      <e p="Models" t="Include">
+        <e p="Comment.cs" t="Include" />
+        <e p="LoginViewModel.cs" t="Include" />
+        <e p="Post.cs" t="Include" />
+      </e>
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp2.0" t="Include">
+            <e p="MiniBlogElasticsearch.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Services" t="Include">
+        <e p="FileBlogService.cs" t="Include" />
+        <e p="IBlogService.cs" t="Include" />
+        <e p="MetaWeblogService.cs" t="Include" />
+      </e>
+      <e p="Startup.cs" t="Include" />
+      <e p="Views" t="Include">
+        <e p="_ViewImports.cshtml" t="Include" />
+        <e p="_ViewStart.cshtml" t="Include" />
+        <e p="Account" t="Include">
+          <e p="Login.cshtml" t="Include" />
+        </e>
+        <e p="Blog" t="Include">
+          <e p="Comments.cshtml" t="Include" />
+          <e p="Edit.cshtml" t="Include" />
+          <e p="Index.cshtml" t="Include" />
+          <e p="Post.cshtml" t="Include" />
+        </e>
+        <e p="Search" t="Include">
+          <e p="Results.cshtml" t="Include" />
+        </e>
+        <e p="Shared" t="Include">
+          <e p="_Layout.cshtml" t="Include" />
+          <e p="_SocialSharing.cshtml" t="Include" />
+        </e>
+      </e>
+      <e p="web.config" t="Include" />
+      <e p="wwwroot" t="Include">
+        <e p="css" t="Include">
+          <e p="_variables.scss" t="Include" />
+          <e p="abovethefold.scss" t="Include" />
+          <e p="admin.scss" t="Include" />
+          <e p="belowthefold.scss" t="Include" />
+          <e p="comments.scss" t="Include" />
+          <e p="login.scss" t="Include" />
+        </e>
+        <e p="img" t="Include">
+          <e p="avatar.svg" t="Include" />
+          <e p="icon16x16.png" t="Include" />
+          <e p="icon180x180.png" t="Include" />
+        </e>
+        <e p="js" t="Include">
+          <e p="admin.js" t="Include" />
+          <e p="site.js" t="Include" />
+        </e>
+        <e p="lib" t="Include">
+          <e p="tinymce" t="Include">
+            <e p="license.txt" t="Include" />
+            <e p="skins" t="Include">
+              <e p="lightgray" t="Include">
+                <e p="content.inline.min.css" t="Include" />
+                <e p="content.min.css" t="Include" />
+                <e p="content.mobile.min.css" t="Include" />
+                <e p="fonts" t="Include">
+                  <e p="tinymce-mobile.woff" t="Include" />
+                  <e p="tinymce-small.eot" t="Include" />
+                  <e p="tinymce-small.svg" t="Include" />
+                  <e p="tinymce-small.ttf" t="Include" />
+                  <e p="tinymce-small.woff" t="Include" />
+                  <e p="tinymce.eot" t="Include" />
+                  <e p="tinymce.svg" t="Include" />
+                  <e p="tinymce.ttf" t="Include" />
+                  <e p="tinymce.woff" t="Include" />
+                </e>
+                <e p="img" t="Include">
+                  <e p="anchor.gif" t="Include" />
+                  <e p="loader.gif" t="Include" />
+                  <e p="object.gif" t="Include" />
+                  <e p="trans.gif" t="Include" />
+                </e>
+                <e p="skin.min.css" t="Include" />
+                <e p="skin.mobile.min.css" t="Include" />
+              </e>
+            </e>
+            <e p="tinymce.min.js" t="Include" />
+          </e>
+        </e>
+        <e p="Posts" t="Include">
+          <e p="636435178866789258.xml" t="Include" />
+        </e>
+        <e p="wlwmanifest.xml" t="Include" />
+      </e>
+    </e>
+  </component>
+</project>
